@@ -21,6 +21,6 @@ I'm a **22-year-old Computer Science student** with a passion for **front-end de
 
 - **GitHub:** [github.com/7atoom](https://github.com/7atoom)
 - **LinkedIn:** [linkedin.com/in/ahmed-hatem-0796b8243](www.linkedin.com/in/ahmed-hatem-0796b8243)
-- **Email:** [mailto:ah1076547@gmail.com](mailto:ah1076547@gmail.com)
+- **Email:** [mailto:ahmed.hatem.dev@gmail.com](mailto:ahmed.hatem.dev@gmail.com)
 
 Let's create something amazing together! 🚀
