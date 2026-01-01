@@ -1,47 +1,98 @@
-# Hi there, I'm Ahmed Hatem! 👋
+<div align="center">
+  
+# Hey there!   I'm Ahmed Hatem 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%26+React+Native+Developer;Web+%26+UI+Development+Trainee+%40ITI;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hatem-0796b8243)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7atoom)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hatem.dev@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **23-year-old Computer Science graduate** and a passionate **Web & UI development trainee** at ITI's 9-months program. As a dedicated **Front-end Developer**, I specialize in building dynamic, responsive, and user-centric digital experiences for both web and mobile platforms.
+```javascript
+const ahmed = {
+    age: 23,
+    education: "Computer Science Graduate",
+    currentRole:  "Web & UI Development Trainee @ITI's 9-month",
+    focus: ["Front-End Development", "Mobile Apps", "Back-End"],
+    funFact:  "I speak code, English, and a bit of Spanish!  🌍"
+};
+```
 
----
-
-## 💻 Skills & Technologies
-
-- **Languages:** JavaScript (ES6+), English (Fluent), Spanish (Basic)
-- **Libraries & Frameworks:** React, React Native
-- **Development Focus:** Web apps · UI/UX · Cross-platform mobile apps
-- **Tools:** Git, VS Code, Figma
-- **Practices:** Responsive Design, Mobile-first, Continuous Learning
-
----
-
-## 🏆 Experience & Roles
-
-- **Web & UI Development Trainee @ ITI**  
-  9-Months Professional Program  
-- **Front-End Developer**
-- **React & React Native Developer**
+- 🔭 Currently training at **ITI's 9-month Professional Program**
+- 🌱 Always learning and exploring new technologies
+- 💡 Passionate about creating seamless user experiences
+- 🎯 Goal: Build products that make a difference
 
 ---
 
-## 📌 What I Do
+## 🛠️ Tech Stack
 
-- Craft **modern web applications** using React.
-- Build **cross-platform mobile apps** with React Native.
-- Create **beautiful UI designs** with focus on accessibility and performance.
-- Collaborate and adapt, always learning new technologies and best practices.
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 🎯 What I Do
 
-- 🚀 **GitHub:** [github.com/7atoom](https://github.com/7atoom)
-- 💼 **LinkedIn:** [linkedin.com/in/ahmed-hatem-0796b8243](https://www.linkedin.com/in/ahmed-hatem-0796b8243)
-- ✉️ **Email:** [ahmed.hatem.dev@gmail.com](mailto:ahmed.hatem.dev@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="Web Apps"/>
+      <br><strong>Web Apps</strong>
+      <br>Building modern, responsive web applications with React
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/smartphone-tablet.png" alt="Mobile Apps"/>
+      <br><strong>Mobile Apps</strong>
+      <br>Cross-platform mobile development with React Native
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Back-End"/>
+      <br><strong>Back-End</strong>
+      <br>Building server-side applications with Node.js
+    </td>
+  </tr>
+</table>
 
 ---
 
-_Ready to create something amazing together!_
+## 🌐 Languages I Speak
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇺🇸 English | Fluent |
+| 🇪🇸 Spanish | Basic |
+| 💻 JavaScript | Native 😄 |
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together! 
+
+<img src="https://komarev.com/ghpvc/?username=7atoom&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+**Thanks for stopping by! ** ⭐
+
+</div>
