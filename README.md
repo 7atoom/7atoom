@@ -93,6 +93,6 @@ const ahmed = {
 
 <img src="https://komarev.com/ghpvc/?username=7atoom&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
-**Thanks for stopping by! ** ⭐
+**Thanks for stopping by!** ⭐
 
 </div>
