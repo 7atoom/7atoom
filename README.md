@@ -90,6 +90,13 @@ const ahmed = {
 ---
 
 <div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=7atoom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub contribution statistics for 7atoom" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=7atoom&theme=tokyonight&hide_border=true" alt="Contribution streak statistics for 7atoom" />
+  
+</div>
+
+<div align="center">
 
 ### 💬 Let's Build Something Amazing Together! 
 
