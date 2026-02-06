@@ -77,12 +77,6 @@ const ahmed = {
   </tr>
 </table>
 
----
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=7atoom&theme=tokyonight&hide_border=true" alt="Contribution streak statistics for 7atoom" /> 
-</div>
-
 <div align="center">
 
 ### 💬 Let's Build Something Amazing Together! 
