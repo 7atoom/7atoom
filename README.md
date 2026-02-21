@@ -77,6 +77,15 @@ const ahmed = {
   </tr>
 </table>
 
+<h3 align="center">A passionate frontend developer from Ismailia</h3>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7atoom&" alt="7atoom" /></p>
+
+
 <div align="center">
 
 ### 💬 Let's Build Something Amazing Together! 
