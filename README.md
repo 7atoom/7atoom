@@ -62,7 +62,7 @@ const ahmed = {
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="Web Apps"/>
       <br><strong>Web Apps</strong>
-      <br>Building modern, responsive web applications with React
+      <br>Building modern, responsive web applications with React & Angular
     </td>
     <td align="center" width="33%">
       <img src="https://img.icons8.com/color/48/000000/smartphone-tablet.png" alt="Mobile Apps"/>
